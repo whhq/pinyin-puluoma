@@ -43,31 +43,31 @@
 
 ### 例文
 
-hl yuy d  wgw ziz xif tsf — — hl ziz ， i  iih jt ih zv gu lc d  wgw ziz uid y  ，<br/>
-汉 语   的 文   字  系  统   — — 汉 字  ， 是 世  界 上 最 古 老 的 文  字  之  一 ， <br/>
+hl　yuy　d　　wgw　ziz　xif　tsf　—　—　hl　ziz　，　i　　iih　jt　ih　zv　gu　lc　d　　wgw　ziz　uid　y　　，<br/>
+汉　语　　的　文　　字　　系　　统　　—　—　汉　字　　，　是　世　　界　上　最　古　老　的　文　　字　　之　　一　，　<br/>
 <br/>
-ye i  iih jt sl da gu wgw ziz ti xif （ gu ait jip d  xqs xys wgw ziz 、 <br/>
-也　是　世　　界　三　大　古　文　　字　　体　系　　（　古　埃　　及　　的　象　　形　　文　　字　　、
+ye　i　　iih　jt　sl　da　gu　wgw　ziz　ti　xif　（　gu　ait　jip　d　　xqs　xys　wgw　ziz　、　<br/>
+也　是　世　　界　三　大　古　文　　字　　体　系　　（　古　埃　　及　　的　象　　形　　文　　字　　、<br/>
 <br/>
-gu bas bi lkv d  xtw xys wgw ziz h  us gow d  jwt gug wgw ） us wvz y  vr vzs ui jxv d  wgw ziz 。<br/>
+gu　bas　bi　lkv　d　　xtw　xys　wgw　ziz　h　　us　gow　d　　jwt　gug　wgw　）　us　wvz　y　　vr　vzs　ui　jxv　d　　wgw　ziz　。<br/>
 古　巴　　比　伦　　的　楔　　形　　文　　字　　和　中　国　　的　甲　　骨　　文　　）　中　惟　　一　传　承　　至　今　　的　文　　字　　。　<br/>
 <br/>
-hl ziz iup yuh bm yix ti xif wgw ziz ， dl yf quz d  i  da bu fg hl ziz yfy jjr yf bm yxy gsl nz 。<br/> 
+hl　ziz　iup　yuh　bm　yix　ti　xif　wgw　ziz　，　dl　yf　quz　d　　i　　da　bu　fg　hl　ziz　yfy　jjr　yf　bm　yxy　gsl　nz　。　<br/>
 汉　字　　属　　于　　表　意　　体　系　　文　　字　　，　但　有　趣　　的　是　大　部　分　汉　字　　又　　兼　　有　表　音　　功　　能　。　<br/>
 <br/>
-gu ddv lic iio ih ， b  jxc us gow iiv ys hl ziz ， z  xqi dh vh d  iir qil np ， <br/>
+gu　ddv　lic　iio　ih　，　b　　jxc　us　gow　iiv　ys　hl　ziz　，　z　　xqi　dh　vh　d　　iir　qil　np　，　<br/>
 古　代　　历　　史　　上　，　不　仅　　中　国　　使　　用　汉　字　　，　在　相　　当　长　的　时　　期　　内　，<br/>
 <br/>
-hl ziz hdz vst dh l  dsh ya di quf d  gow jzg jmt lne wgw ziz ， <br/>
+hl　ziz　hdz　vst　dh　l　　dsh　ya　di　quf　d　　gow　jzg　jmt　lne　wgw　ziz　，　<br/>
 汉　字　　还　　充　　当　了　东　　亚　地　区　　的　国　　际　　交　　流　　文　　字　　，　<br/>
- <br/>
-cs e  xys vz l  yi us gow 、 ri bg 、 vc xjy bl dcs h  ygz nls dz gow jw wp uu ti d  hl ziz wgw hwv qrw 。<br/>
+<br/>
+cs　e　　xys　vz　l　　yi　us　gow　、　ri　bg　、　vc　xjy　bl　dcs　h　　ygz　nls　dz　gow　jw　wp　uu　ti　d　　hl　ziz　wgw　hwv　qrw　。<br/>
 从　而　形　　成　了　以　中　国　　、　日　本　、　朝　鲜　　半　岛　　和　越　　南　　等　国　　家　为　主　体　的　汉　字　　文　　化　　圈　　。<br/>
 <br/>
-mu qj d  hl ziz yf jjk ti h  flf ti uid fg ， us gow da luf uu yc iiv ys jjk ti ziz ， <br/>
+mu　qj　d　　hl　ziz　yf　jjk　ti　h　　flf　ti　uid　fg　，　us　gow　da　luf　uu　yc　iiv　ys　jjk　ti　ziz　，　<br/>
 目　前　的　汉　字　　有　简　　体　和　繁　　体　之　　分　，　中　国　　大　陆　　主　要　使　　用　简　　体　字　　，<br/>
 <br/>
-flf ti ziz uu yc ys yuh tdo wle 、 xqx ghe 、 aoe mg ， hd wd hw r  qrw lq ush ziz ti df yf iiv ys 。 <br/>
+flf　ti　ziz　uu　yc　ys　yuh　tdo　wle　、　xqx　ghe　、　aoe　mg　，　hd　wd　hw　r　　qrw　lq　ush　ziz　ti　df　yf　iiv　ys　。　<br/>
 繁　　体　字　　主　要　用　于　　台　　湾　　、　香　　港　　、　澳　　门　，　海　外　华　人　圈　　两　种　　字　　体　都　有　使　　用　。　<br/>
 <br/>
 
