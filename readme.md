@@ -72,7 +72,8 @@ flf ti ziz uu yc ys yuh tdo wle 、 xqx ghe 、 aoe mg ， hd wd hw r  qrw lq us
 
 
 转写效果：
-hlYuy d wgwZiz xifTsf -- hlZiz , i iihJt ih zv guLc d wgwZiz uid-y , ye i iihJt sl-da gu-wgwZiz tiXif ( gu-AitJip d xqsXys wgwZiz, gu-BasBiLkv d xtwXys wgwZiz h UsGow d jwtGug-wgw ) us wvz-y vrVzs uiJxv d wgwZiz . hlZiz iupYuh bm-Yix tiXif wgwZiz , dl yfQuz d i da-buFg hlZiz yfy jjr-yf bm-yxy gslNz . guDdv licIio ih , b-jxc UsGow iivYs hlZiz , z xqiDh-vh d iirQil np , hlZiz hdz vstDh l dshYa-diQuf d gowJzg jmtLne wgwZiz , cs-e xysVz l yi UsGow , RiBg , VcXjy-blDcs h YgzNls dz gowJw wp uuTi d hlZiz wgwHwv-Qrw . muQj d hlZiz yf jjkTi h flfTi uid fg , UsGow daLuf uuYc iivYs jjkTi-ziz , flfTi-ziz uuYc ys yuh TdoWle, XqxGhe, AoeMg , hdWd hw-r-qrw lq-ush zizTi df-yf iivYs .
+hl-yuy d wgwziz xiftsf -- hl-ziz, i iihjt ih zv gu-lc d wgwziz uidy, ye-i iihjt sl-da gu-wgwziz tixif (gu-aitjip d
+xqsxys wgwziz, gu-basbi-lkv d xtwxys wgwziz h us-gow d jwtgugwgw) us wvzy vr-vzs ui-jxv d wgwziz. hlziz iupyuh bm-yix ti-xif wgwziz, dl yf-quz d i da-bu-fg hl-ziz yfy jjryf bm-yxy gslnz. gu-ddv liciio ih, b-jxc us-gow iivys hl-ziz, z xqidh-vh d iirqil np, hl-ziz hdz vstdh l dshya di-quf d gowjzg jmtlne wgwziz, cs-e xysvz l yi us-gow, ri-bg, vc-xjy-bl-dcs h ygznls dz gowjw wp uu-ti d hl-ziz wgwhwv qrw. mu-qj d hlziz yf jjkti h flfti uid fg, us-gow da-luf uu-yc iivys jjkti-ziz, flfti-ziz uuyc ys-yuh tdowle, xqxghe, aoemg; hd-wd hw-r-qrw lq-ush zizti df-yf iivys.
 
 汉语的文字系统——汉字，是世界上最古老的文字之一，也是世界三大古文字体系（古埃及的象形文字、古巴比伦的楔形文字和中国的甲骨文）中惟一传承至今的文字。汉字属于表意体系文字，但有趣的是大部分汉字又兼有表音功能。古代历史上，不仅中国使用汉字，在相当长的时期内，汉字还充当了东亚地区的国际交流文字，从而形成了以中国、日本、朝鲜半岛和越南等国家为主体的汉字文化圈。目前的汉字有简体和繁体之分，中国大陆主要使用简体字，繁体字主要用于台湾、香港、澳门，海外华人圈两种字体都有使用。
 
