@@ -1,89 +1,44 @@
-# 普逻码拉丁拼音文字
+# 普逻码输入法 Puluoma Input Mathod  Readme
 
-前两码表示音节，第三码表示部首，大写是另一个字开头。 越常用的字编码越简单，部分字第三码是特定（如：vzs 承受的承，原码为vzaf，f表示第二声, 最常用的3755字优先采用三码）。
+普逻码是一种音形码的汉字输入法，用拼音打二字词，简拼加拼音打三字词，简拼打多字词。
+拼音加部首打单字和造词句。第二次打字词能显示调到首位的词句，实现智能打字效果。
+
+如 shuru 打 “输入” ，下次 s 就会出现 “输入”。
+srfa 打 “输入法” ，下次打 s 就会出现 “输入法”。
 
 
+## 普逻码简答 Q & A
+1. 普逻码是什么？  普通话拼音+部首逻辑组合的输入法
+2. 部首码是什么？  部首的拼音首字母
 
-* *n hc， iihJt !*  
-* *你好，世界！* 
+
+## 普逻码快速入门方案——直接全拼打二字词，简拼打多字词
+普逻码可以让拼音用户轻松打字词句，发挥全拼和简拼打字的优势。
 
 
 
 ## 普逻部首码编排 
 
-|字母 |非简拼部首|部首（共259个） |
-| :-------------|:------------- |:------------- |
-|a  |  手         |扌手  |
-|b  |  宀         |丷宀八贝勹卜白匕疒貝比冫髟癶鼻  |
-|c  |             |虫寸厂车彳車巛臣辰采川齒长赤齿镸長  |
-|d  | 丶          |丶大刀刂豆歹斗鬥鼎  |
-|e  | 水已        |氵儿水而二已  |
-|f  | 阝耳纟      |阝糹匚耳方纟糸丰缶非父風风飞邑阜  |
-|g  |             |戈广弓工廾艮革干骨鬼谷高甘瓜鬲鼓龟  |
-|h  | 一          |一火禾灬虍户黑黄  |
-|i  | 木          |木  |
-|j  |             |釒巾钅臼卩几斤见金角見旡己韭|
-|k  | 竹衣〇      |竹衣衤凵克 〇（空）|
-|l  | 丨月        |丨月力立耂鹿里龍耒龙隶鹵卤|
-|m  |             |目米冖皿馬门马門毛矛母麻面黽麥黾麦毋|
-|n  |  乀         |女乀鳥牛鸟牜|
-|o  | 口          |口|
-|p  | 丿石尸殳    |丿石尸殳皮片爿丬|
-|q  | 酉          |犭酉欠犬青气齐齊|
-|r  | 雨          |日雨肉曰入|
-|s  |             |十山厶士罒豕彡示巳飠礻氏矢生饣舌身鼠色食首|
-|t  | 冂亠        |土冂田亠 √（提）|
-|u  |艹           |艹艸|
-|v  |乙人         |乙人亻|
-|w  |囗           |王攵囗兀文瓦韦韋攴|
-|x  |乂彑         |心小忄夕彐西乂穴辛玄香血彑爻|
-|y  |廴           |又言魚羽聿羊讠用鱼业页頁幺廴弋音尢牙龠|
-|z  |夂疋         |辶隹夂足子爫止疋舟至走自豸支之爪|
+|字母 |部首 |
+| :------------- |:------------- |
+|b  |八 白 勹 贝 貝 鼻 匕 比 釆 髟 冫 癶 卜    |
+|c  |艸/艹 长 長 鬯 屮 车 車 臣 辰 彳 赤 齿 齒 虫 舛 巛/川 疒 辵/辶 寸    |
+|d  |大 隶 歹 刀/刂 鼎 豆 鬥 斗 而 二 耳 匚 方 飞 非 飛 风 風 缶 阜/阝 父    |
+|g  |干 甘 高 革 戈 艮 廾 工 弓 谷 骨 鼓 瓜 鬼 龟 龜 丨    |
+|h  |厂 禾 黑 戶/户 虍 黄 黃 火/灬    |
+|j  |彐/彑 几 己/已/巳 见 見 角 卩 巾 斤 钅 金/釒 冂 臼 韭 亅/了    |
+|k  |口    |
+|l  |老/耂 耒 力 立 鬲 里 龙 龍 鹿 卤 鹵    |
+|m  |麻 马 馬 麦 麥 毛 矛 门 門 冖 纟 糸/糹 米 宀 面 皿 黾 黽 木 目    |
+|n  |鸟 鳥 牛/牜 女    |
+|p  |皮 片 丿 攴/攵    |
+|q  |齐 齊 气 欠 爿 青 凵 犬/犭    |
+|r  |人/亻 儿 日 禸 肉/月 入    |
+|s  |色 山 彡 舌 身 生 十 饣 石 食/飠 士 氏 示/礻 矢 豕 尸 手/扌 首 黍 鼠 殳 疋 水/氵/氺 厶 夊    |
+|t  |田/由/甲/申 亠 土    |
+|w  |瓦 网/罒/罓 尢 囗 韦 韋 文 无 毋/母    |
+|x  |匸 夕 襾/西/覀 香 小 血 心/忄 辛 行 玄 穴    |
+|y  |牙 讠 言/訁 广 羊 爻 幺/乡 页 頁 弋 邑/阝 乙/乚 一 衣/衤 廴 音 用 又 酉 鱼 魚 玉/玊/王 聿 羽 雨 月 龠 曰    |
+|z  |爪/爫 至 豸 夂 止 黹 支 舟 竹 丶 隹 自 子/孑 走 足    |
 
 
-### 例文
-hl yuy d  wgw ziz xif tsf — — hl ziz ， i  iih jt ih zv gu lc d  wgw ziz uid y  ，<br/>
-汉 语  的 文  字  系  统  — — 汉 字  ， 是 世  界 上 最 古 老 的 文  字  之  一 ， <br/>
-<br/>
-ye i  iih jt sl da gu wgw ziz ti xif （ gu ait jip d  xqs xys wgw ziz 、 <br/>
-也 是 世  界 三 大 古 文  字  体 系  （ 古 埃  及  的 象  形  文  字  、<br/>
-<br/>
-gu bas bi lkv d  xtw xys wgw ziz h  us gow d  jwt gug wgw ） us wvz y  vr vzs ui jxv d  wgw ziz 。<br/>
-古 巴  比 伦  的 楔  形  文  字  和 中 国  的 甲  骨  文  ） 中 惟  一 传 承  至 今  的 文  字  。 <br/>
-<br/>
-hl ziz iup yuh bm yix ti xif wgw ziz ， dl yf quz d  i  da bu fg hl ziz yfy jjr yf bm yxy gsl nz 。 <br/>
-汉 字  属  于  表 意  体 系  文  字  ， 但 有 趣  的 是 大 部 分 汉 字  又  兼  有 表 音  功  能 。 <br/>
-<br/>
-gu ddv lic iio ih ， b  jxc us gow iiv ys hl ziz ， z  xqi dh vh d  iir qil np ， <br/>
-古 代  历  史  上 ， 不 仅  中 国  使  用 汉 字  ， 在 相  当 长 的 时  期  内 ，<br/>
-<br/>
-hl ziz hdz vst dh l  dsh ya di quf d  gow jzg jmt lne wgw ziz ， <br/>
-汉 字  还  充  当 了 东  亚 地 区  的 国  际  交  流  文  字  ， <br/>
-<br/>
-cs e  xys vz l  yi us gow 、 ri bg 、 vc xjy bl dcs h  ygz nls dz gow jw wp uu ti d  hl ziz wgw hwv qrw 。<br/>
-从 而 形  成 了 以 中 国  、 日 本 、 朝 鲜  半 岛  和 越  南  等 国  家 为 主 体 的 汉 字  文  化  圈  。<br/>
-<br/>
-mu qj d  hl ziz yf jjk ti h  flf ti uid fg ， us gow da luf uu yc iiv ys jjk ti ziz ， <br/>
-目 前 的 汉 字  有 简  体 和 繁  体 之  分 ， 中 国  大 陆  主 要 使  用 简  体 字  ，<br/>
-<br/>
-flf ti ziz uu yc ys yuh tdo wle 、 xqx ghe 、 aoe mg ， hd wd hw r  qrw lq ush ziz ti df yf iiv ys 。 <br/>
-繁  体 字  主 要 用 于  台  湾  、 香  港  、 澳  门 ， 海 外 华 人 圈  两 种  字  体 都 有 使  用 。 <br/>
-<br/>
-
-
-转写效果：
-hl-yuy d wgwziz xiftsf -- hl-ziz, i iihjt ih zv gu-lc d wgwziz uidy, ye-i iihjt sl-da gu-wgwziz tixif (gu-aitjip d
-xqsxys wgwziz, gu-basbi-lkv d xtwxys wgwziz h us-gow d jwtgugwgw) us wvzy vr-vzs ui-jxv d wgwziz. hlziz iupyuh bm-yix ti-xif wgwziz, dl yf-quz d i da-bu-fg hl-ziz yfy jjryf bm-yxy gslnz. gu-ddv liciio ih, b-jxc us-gow iivys hl-ziz, z xqidh-vh d iirqil np, hl-ziz hdz vstdh l dshya di-quf d gowjzg jmtlne wgwziz, cs-e xysvz l yi us-gow, ri-bg, vc-xjy-bl-dcs h ygznls dz gowjw wp uu-ti d hl-ziz wgwhwv qrw. mu-qj d hlziz yf jjkti h flfti uid fg, us-gow da-luf uu-yc iivys jjkti-ziz, flfti-ziz uuyc ys-yuh tdowle, xqxghe, aoemg; hd-wd hw-r-qrw lq-ush zizti df-yf iivys.
-
-汉语的文字系统——汉字，是世界上最古老的文字之一，也是世界三大古文字体系（古埃及的象形文字、古巴比伦的楔形文字和中国的甲骨文）中惟一传承至今的文字。汉字属于表意体系文字，但有趣的是大部分汉字又兼有表音功能。古代历史上，不仅中国使用汉字，在相当长的时期内，汉字还充当了东亚地区的国际交流文字，从而形成了以中国、日本、朝鲜半岛和越南等国家为主体的汉字文化圈。目前的汉字有简体和繁体之分，中国大陆主要使用简体字，繁体字主要用于台湾、香港、澳门，海外华人圈两种字体都有使用。
-
-Written Chinese is one of the most ancient scripts in the world, and the only one of the three biggest script systems (the pictographs of ancient Egypt, the arrowheaded characters of the ancient Babylon, and the jiaguwen script of ancient China) that has come down to the present. Chinese characters belong to the system of ideograms, but interestingly, most Chinese characters concurrently indicate the pronunciation. In ancient times, Chinese characters were not only used in China, but also played a part in the international exchanges in East Asia, thus forming a cultural region based on Chinese characters, which mainly included China, Japan, the Korean Peninsula and Vietnam. Today, the Chinese characters can be classified into simplified Chinese and traditional Chinese. In general, the former is mainly used in the mainland of China, the latter mainly in Taiwan, Hong Kong and Macao; meanwhile, both are used among overseas Chinese.
-
-pinyin:
-Hànyǔ de wénzì xìtǒng——hànzì, shì shìjiè shàng zuì gǔlǎo de wénzì zhī yī, yěshì shìjiè sān dà gǔwénzìtǐxì (gǔ āijí de xiàngxíng wénzì, gǔ bābǐlún de xiēxíng wénzì hé zhōngguó de jiǎgǔwén) zhōng wéiyī chuánchéng zhìjīn de wénzì. Hànzì shǔyú biǎoyì tǐxì wénzì, dàn yǒuqù de shì dà bùfèn hànzì yòu jiān yǒu biǎo yīn gōngnéng. Gǔdài lìshǐ shàng, bùjǐn zhōngguó shǐyòng hànzì, zài xiāngdāng zhǎng de shíqí nèi, hànzì hái chōngdāngle dōngyà dìqū de guójì jiāoliú wénzì, cóng'ér xíngchéngle yǐ zhōngguó, rìběn, cháoxiǎn bàndǎo hé yuènán děng guójiā wéi zhǔtǐ de hànzì wénhuà quān. Mùqián de hànzì yǒu jiǎntǐ hé fántǐ zhī fēn, zhōngguó dàlù zhǔyào shǐyòng jiǎntǐzì, fántǐ zì zhǔyào yòng yú táiwān, xiānggǎng, àomén, hǎiwài huárén quān liǎng zhǒng zì tǐ dōu yǒu shǐyòng.
-
-
-
-
------------------------------------------------
-[关于普逻码输入法 Puluoma Input Mathod  Readme](https://whhq.github.io/index.html) 
